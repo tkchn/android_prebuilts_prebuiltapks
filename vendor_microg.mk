@@ -6,7 +6,6 @@ Aurora \
 FakeStore \
 FDroid \
 FDroidPrivilegedExtension \
-GCam \
 GmsCore \
 GsfProxy \
 Lawnchair \
