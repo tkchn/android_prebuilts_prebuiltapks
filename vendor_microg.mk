@@ -1,4 +1,4 @@
-PRODUCT_PACKAGES += \
+CUSTOM_PACKAGES += \
 AdAway \
 additional_repos \
 AFWall \

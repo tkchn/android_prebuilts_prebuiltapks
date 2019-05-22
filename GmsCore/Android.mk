@@ -20,3 +20,4 @@ LOCAL_OVERRIDES_PACKAGES := com.qualcomm.location
 LOCAL_REQUIRED_MODULES := privapp-permissions-com.google.android.gms.xml
 include $(BUILD_PREBUILT)
 
+LOCAL_DEX_PREOPT := false

@@ -19,3 +19,4 @@ LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_REQUIRED_MODULES := privapp-permissions-com.android.vending.xml
 include $(BUILD_PREBUILT)
 
+LOCAL_DEX_PREOPT := false
